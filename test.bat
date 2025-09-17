@@ -1,0 +1,1 @@
+move "%CD%\genesys-datatable\genesyscloud.tf"   "%CD%\migrate-to-dr\"
